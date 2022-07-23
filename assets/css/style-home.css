@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(#09011B, #511E4F);
+}
+
+html {
+  font-size: 16px;
+  font-family: "Rakka", sans-serif;
+
+}
+
+/* header*/
+
+.nav-item{
+  margin: 0 15px ;
+}
+
+/*main*/
+
+.d-flex {
+  display: flex;
+}
+
+.introducao {
+  color: #ffffff;
+}
+
+.main-img {
+  display: flex;
+}
+
+/* botao*/
+.caixa-btn {
+  max-width: 200px;
+  font-size: 18px;
+  padding: 30px;
+  background: #f39a2f;
+  color: #ffff;
+  text-decoration: none;
+  border-radius: 15px;
+  border: 2px solid #9525be;
+}
+
+.main-btn {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.caixa-btn:hover {
+  color: #d6214f;
+  text-decoration: underline;
+  transform: scale(1.0);
+}
+
+
+/* footer*/
+footer {
+  text-align: center;
+  padding: 40px 0;
+}
+
+.rodape-copyright {
+  color: #ffffff;
+  font-size: 13px;
+  margin: 20px 0 0;
+}
