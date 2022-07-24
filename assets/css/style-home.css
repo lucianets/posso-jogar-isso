@@ -89,7 +89,7 @@ html {
 
 /* botao*/
 .caixa-btn {
-  max-width: 300px;
+  width: 300px;
   font-size: 25px;
   padding: 35px;
   background: #f276b6;
