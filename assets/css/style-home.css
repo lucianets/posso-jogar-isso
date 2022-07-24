@@ -1,13 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chivo:wght@300&display=swap');
 
 body {
-  background: linear-gradient(#09011B, #511E4F);
+  background: linear-gradient(#511E4F, #09011B, #511E4F);
 }
 
 html {
   font-size: 30px;
-  font-family: "Rakka", sans-serif;
+  font-family: 'Chivo', sans-serif;
   color: #ffffff;
+}
+
+.fonte{
+  font-family: 'Space Mono', monospace;
 }
 
 .container{
@@ -57,7 +62,7 @@ html {
 }
 
  .nav-item a:hover {
-  color: #f39a2f;
+  color: #cfa6b9;
 }
 
 .nav-item a:active {
@@ -87,8 +92,8 @@ html {
   max-width: 300px;
   font-size: 25px;
   padding: 35px;
-  background: #f39a2f;
-  color: #ffffff;
+  background: #f276b6;
+  color: #f7e5ce;
   border-radius: 20px;
   border: 2px solid #9525be;
   list-style-type: none;
@@ -114,6 +119,6 @@ footer {
 
 .rodape-copyright {
   color: #ffffff;
-  font-size: 25px;
-  margin: 20px 0 0;
+  font-size: 18px;
+  margin: 10px 0 0;
 }
