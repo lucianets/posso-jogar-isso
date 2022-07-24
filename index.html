@@ -15,22 +15,22 @@
   <!--cabeçalho-->
   <header class="d-flex">
     <div class="logo-header">
-      <img src="./assets/img/logo.png" alt="logo do site">
+      <img class="inherit" src="./assets/img/logo.png" alt="logo do site">
     </div>
-      <nav>
-        <ul class="lista-header d-flex">
-          <li clas="nav-item"><a href="index.html">Home</a></li>
-          <li clas="nav-item"><a href="about.html">Sobre</a></li>
-          <li clas="nav-item"><a href="games.html">Jogos</a></li>
-          <li clas="nav-item"><a href="contact.html">Contato</a></li>
-        </ul>
-      </nav>
+    <nav>
+      <ul class="lista-header d-flex">
+        <li class="nav-item"><a class="text-none" href="index.html">Home</a></li>
+        <li class="nav-item"><a class="text-none" href="./pages/about.html">Sobre</a></li>
+        <li class="nav-item"><a class="text-none" href="./pages/games.html">Jogos</a></li>
+        <li class="nav-item"><a class="text-none" href="./pages/contact.html">Contato</a></li>
+      </ul>
+    </nav>
   </header>
 
   <!--introdução-->
   <main>
-    <section class="d-flex ">
-      <div>
+    <section class="d-flex container">
+      <div class="caixa-introducao">
         <p class="introducao">
           acessibilidade em jogos, mostrar jogos que pessoas podem jogar se elas tiverem alguma limitação, importância
           da acessibilidade e inclusão de PDC em games e na tecnologia.
@@ -38,9 +38,10 @@
         </p>
 
         <!--BOTAO-->
-        <button class="caixa-btn">
-          <a class="btn-main " href=./pages/games.html" target="_blank"> vamos jogar?</a>
-        </button>
+
+        <a class="btn-main text-none" href="./pages/games.html" target="_blank">
+           <button class="caixa-btn"> vamos jogar? </button>
+        </a>
       </div>
 
       <div class="main-img">
