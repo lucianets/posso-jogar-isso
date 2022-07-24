@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chivo:wght@300&display=swap');
+
+body {
+  background: linear-gradient(#511E4F, #09011B, #511E4F);
+}
+
+html {
+  font-size: 30px;
+  font-family: 'Chivo', sans-serif;
+  color: #ffffff;
+}
+
+.fonte{
+  font-family: 'Space Mono', monospace;
+}
+
+.container{
+  padding: 0 10px;
+  margin: 55px 0;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.inherit {
+  width: inherit;
+  height: inherit;
+}
+
+.text-none {
+  text-decoration: none;
+}
+
+/* header*/
+
+.logo-header {
+  width: 150px;
+  margin-right: auto;
+  margin-left: 40px;
+}
+
+.lista-hearder {
+  list-style-type: none;
+}
+
+.nav-item {
+  display: inline;
+  margin: 0 20px;
+  font-size: 26px;
+  float: left;
+}
+
+.nav-item a:link {
+  color: #ffffff;
+}
+
+.nav-item a:visited {
+  color: inherit;
+  
+}
+
+ .nav-item a:hover {
+  color: #cfa6b9;
+}
+
+.nav-item a:active {
+  color: #ffffff;
+}
+
+/*main*/
+
+.caixa-introducao{
+  padding-top: 60px ;
+  text-align: center;
+}
+
+.introducao {
+  color: #ffffff;
+  width: 100%;
+}
+
+.main-img {
+  padding: 50px;
+  display: flex;
+  width: 100%;
+}
+
+/* botao*/
+.caixa-btn {
+  max-width: 300px;
+  font-size: 25px;
+  padding: 35px;
+  background: #f276b6;
+  color: #f7e5ce;
+  border-radius: 20px;
+  list-style-type: none;
+  text-align:center;
+  border: none;
+  background-size: 300% 100%;
+  moz-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+  background-image: linear-gradient(to right ,#511e4f, #14f4ea ,#511e4f);
+  box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
+}
+
+.main-btn {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.main-btn a:link {
+  color: #09011B;
+}
+
+.caixa-btn:hover {
+  background-position: 100% 0;
+  moz-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.caixa-btn:focus {
+  outline: none;
+} 
+
+
+/* footer*/
+footer {
+  text-align: center;
+  padding: 30px 0;
+}
+
+.rodape-copyright {
+  color: #ffffff;
+  font-size: 18px;
+  margin: 10px 0 0;
+}
