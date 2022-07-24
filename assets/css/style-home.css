@@ -95,8 +95,16 @@ html {
   background: #f276b6;
   color: #f7e5ce;
   border-radius: 20px;
-  border: 2px solid #9525be;
   list-style-type: none;
+  text-align:center;
+  border: none;
+  background-size: 300% 100%;
+  moz-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+  background-image: linear-gradient(to right ,#511e4f, #14f4ea ,#511e4f);
+  box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
 }
 
 .main-btn {
@@ -109,6 +117,18 @@ html {
 .main-btn a:link {
   color: #09011B;
 }
+
+.caixa-btn:hover {
+  background-position: 100% 0;
+  moz-transition: all .4s ease-in-out;
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.caixa-btn:focus {
+  outline: none;
+} 
 
 
 /* footer*/
