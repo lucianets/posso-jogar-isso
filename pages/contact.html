@@ -5,9 +5,10 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=ß, initial-scale=1.0">
+
   <title>Posso jogar isso?</title>
   <link rel="stylesheet" href="../assets/css/style-home.css">
-  <link rel="stylesheet" href="../assets/css/style.css">
+  <link rel="stylesheet" href="../assets/css/style-contato.css">
 </head>
 
 <body>
@@ -27,20 +28,73 @@
     </nav>
   </header>
 
-  <!--formalurio-->
-  <section class="container">
-    <h1 class="fonte"> Entre em contato</h1>
-    <form action="mailto:luci.silvaa77@gmail.com" method="post">
-      <input class="form" type="text" name="Nome" placeholder="Digite seu nome" required>
-      <input class="form" type="email" name="E-mail" placeholder="Digite seu e-mail" required>
-      <textarea class="form" name="Mensagem" cols="30" rows="10" placeholder="Digite sua mensagem"></textarea>
-      <button class="btn-form fonte" type="submit"> Enviar </button>
-    </form>
-  </section>
+  <section id="contact">
+    <h1 class="header-formulario fonte">Contato</h1>
+    <div class="contato">
+      <form class="form-contato" action="mailto:luci.silvaa77@gmail.com" method="post" role="form">
+        <div class="form-grupo">
+          <div class="w-100">
+            <input type="text" class="form-item form-item-input" id="name" placeholder="SEU NOME" name="name" value=""
+              required>
+          </div>
+        </div>
 
-  <!--redes sociais-->
-  <section class="redes-sociais">
+        <div class="form-grupo">
+          <div class="w-100">
+            <input type="email" class="form-item form-item-input" id="email" placeholder=" SEU E-MAIL" name="email"
+              value="" required>
+          </div>
+        </div>
 
+        <textarea class="form-item" rows="10" placeholder=" SUA MENSAGEM" name="message" required></textarea>
+
+        <button class="botao-enviar" id="submit" type="submit">
+          <div class="alt-botao-enviar">
+            <i class="fa fa-paper-plane fonte"></i><span class="send-text">Enviar</span>
+          </div>
+        </button>
+
+      </form>
+
+      <!-- lado direito do contato -->
+
+      <div class="direct-contact-container">
+
+        <ul class="contact-list">
+
+          <li class="list-item">
+            <i class="fa fa-envelope fa-2x">
+              <span class="contact-text reprograma">
+                <a href="https://reprograma.com.br" target="_blank" title="Conheça a {reprograma}">
+                  Conheça a {reprogama} </a>
+              </span>
+            </i>
+          </li>
+        </ul>
+
+        <hr>
+        <p class="header-formulario fonte tamanho">Minhas Redes Socias</p>
+        <ul class="social-media-list">
+          <a href="https://github.com/lucianets" target="_blank">
+            <li>
+              <img class="social-media-list" src="../assets/img/github.png" alt="logo do github">
+            </li>
+          </a>
+          <a href="https://ltsluciane.notion.site/Luciane-s-notion-hub-c473b2e23be4406ab45201b5e1b7f6a2"
+            target="_blank">
+            <li>
+              <img class="social-media-list" src="../assets/img/notion.png" alt="logo do notion">
+            </li>
+          </a>
+          <a href="https://www.linkedin.com/in/lucianets/" target="_blank">
+            <li>
+              <img class="social-media-list" src="../assets/img/linkedin.png" alt="logo linkedin">
+            </li>
+          </a>
+        </ul>
+
+      </div>
+    </div>
   </section>
 
   <!--RODAPE-->
