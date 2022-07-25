@@ -8,6 +8,7 @@
 
   <title>Posso jogar isso?</title>
   <link rel="stylesheet" href="../assets/css/style-home.css">
+  <link rel="stylesheet" href="../assets/css/style-contato.css">
 </head>
 
 <body>
@@ -25,14 +26,76 @@
         <li class="nav-item"><a class="text-none" href="contact.html">Contato</a></li>
       </ul>
     </nav>
-  </header> 
+  </header>
 
-<!--formalurio-->
-<section class="container">
+  <section id="contact">
+    <h1 class="header-formulario fonte">Contato</h1>
+    <div class="contato">
+      <form class="form-contato" action="mailto:luci.silvaa77@gmail.com" method="post" role="form">
+        <div class="form-grupo">
+          <div class="w-100">
+            <input type="text" class="form-item form-item-input" id="name" placeholder="SEU NOME" name="name" value=""
+              required>
+          </div>
+        </div>
 
+        <div class="form-grupo">
+          <div class="w-100">
+            <input type="email" class="form-item form-item-input" id="email" placeholder=" SEU E-MAIL" name="email"
+              value="" required>
+          </div>
+        </div>
 
+        <textarea class="form-item" rows="10" placeholder=" SUA MENSAGEM" name="message" required></textarea>
 
-</section>
+        <button class="botao-enviar" id="submit" type="submit">
+          <div class="alt-botao-enviar">
+            <i class="fa fa-paper-plane fonte"></i><span class="send-text">Enviar</span>
+          </div>
+        </button>
+
+      </form>
+
+      <!-- lado direito do contato -->
+
+      <div class="direct-contact-container">
+
+        <ul class="contact-list">
+
+          <li class="list-item">
+            <i class="fa fa-envelope fa-2x">
+              <span class="contact-text reprograma">
+                <a href="https://reprograma.com.br" target="_blank" title="Conheça a {reprograma}">
+                  Conheça a {reprogama} </a>
+              </span>
+            </i>
+          </li>
+        </ul>
+
+        <hr>
+        <p class="header-formulario fonte tamanho">Minhas Redes Socias</p>
+        <ul class="social-media-list">
+          <a href="https://github.com/lucianets" target="_blank">
+            <li>
+              <img class="social-media-list" src="../assets/img/github.png" alt="logo do github">
+            </li>
+          </a>
+          <a href="https://ltsluciane.notion.site/Luciane-s-notion-hub-c473b2e23be4406ab45201b5e1b7f6a2"
+            target="_blank">
+            <li>
+              <img class="social-media-list" src="../assets/img/notion.png" alt="logo do notion">
+            </li>
+          </a>
+          <a href="https://www.linkedin.com/in/lucianets/" target="_blank">
+            <li>
+              <img class="social-media-list" src="../assets/img/linkedin.png" alt="logo linkedin">
+            </li>
+          </a>
+        </ul>
+
+      </div>
+    </div>
+  </section>
 
   <!--RODAPE-->
   <footer>
