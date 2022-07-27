@@ -1,5 +1,13 @@
 /* página sobre */
 
+html{
+    text-align: justify;
+}
+
+.fonte-color{
+    color: #FFF2E7;
+}
+
 .posicao{
     text-align: center;
 }
