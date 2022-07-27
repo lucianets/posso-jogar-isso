@@ -1,43 +1,49 @@
-/* página sobre */
+/* pÃ¡gina sobre */
 
-html{
-    text-align: justify;
+.fonte-color {
+  color: #FFF2E7;
 }
 
-.fonte-color{
-    color: #FFF2E7;
+.text-align-center {
+  text-align: center;
 }
 
-.posicao{
-    text-align: center;
+.justify-content-center {
+  justify-content: center;
 }
 
+.titulo-game {
+  font-weight: bolder;
+  padding: 0;
+  margin: 0;
+}
 .conteudo-principal-escrito-titulo {
-    font-family: 'Space Mono', cursive;
-    font-weight: 400;
-    font-size: 30px;
-    color: #FFF2E7;
-  }
+  font-family: 'Space Mono', cursive;
+  font-weight: 800;
+  font-size: 40px;
+  color: #FFF2E7;
+}
 
-  .conteudo-texto{
-    font-family: 'Chivo', sans-serif;
-    font-weight: 300;
-    font-size: 18px;
-    color: #ECD6C4;
-  }
-  
-  .curiosidade {
-    text-align: center;  
-    font-size: 20px;
-    border: 1px solid #f276b6;
-    padding: 20px;
-    line-height: 25px;
-    margin: 30px auto;
-  }
+.conteudo-texto {
+  font-family: 'Chivo', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  color: #ECD6C4;
+  margin: 0 15px;
+}
+
+.curiosidade {
+  font-size: 20px;
+  border: 1px solid #f276b6;
+  padding: 20px;
+  line-height: 25px;
+  margin: 30px auto;
+  font-style: italic;
+  font-weight: bold;
+}
 
 .conteudo-principal-imagem {
-    height: 300px;
-    display: flex;
-    flex-direction: column ;
-  }
-
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+}
