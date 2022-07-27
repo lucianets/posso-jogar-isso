@@ -27,7 +27,6 @@
     max-width: 840px;
 }
 
-/* Left contact page */
 .form-contato {
     max-width: 400px;
     font-family: 'Lato';
@@ -71,7 +70,6 @@
     transform: translate3d(0px, -29px, 0px);
 }
 
-/* Begin Right Contact Page */
 .direct-contact-container {
     max-width: 400px;
 }
@@ -116,7 +114,6 @@
     width: 100%;
     margin: 0 auto;
     padding: 0;
-    
 }
 
 .social-media-list li a {
