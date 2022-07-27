@@ -70,7 +70,6 @@
     transform: translate3d(0px, -29px, 0px);
 }
 
-
 .direct-contact-container {
     max-width: 400px;
 }
@@ -115,7 +114,6 @@
     width: 100%;
     margin: 0 auto;
     padding: 0;
-    text-decoration: none;
 }
 
 .social-media-list li a {
@@ -135,7 +133,6 @@
     background-color: rgb(255, 255, 255);
     cursor: pointer;
     transition: all .2s ease-in-out;
-    text-decoration: none;
 }
 
 .social-media-list li:after {
