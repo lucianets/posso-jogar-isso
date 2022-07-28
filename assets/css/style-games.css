@@ -27,17 +27,10 @@
 
 .container .card:nth-child .box .content a {
   background: #f276b6;
-  ;
-}
-
-.container .card:nth-child .box .content a {
-  background: #f276b6;
-  ;
 }
 
 .container .card:nth-childs .box .content a {
   background: #f276b6;
-  ;
 }
 
 .container .card .box {
@@ -70,7 +63,6 @@
 }
 
 .container .card .box .content {
-
   text-align: center;
 }
 
