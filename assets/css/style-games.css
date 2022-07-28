@@ -1,6 +1,10 @@
- 
- /* estilo card */
- .container {
+/* estilo card */
+
+.oculto {
+  display: none;
+}
+
+.container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -22,15 +26,11 @@
 }
 
 .container .card:nth-child .box .content a {
-  background:  #f276b6;;
+  background: #f276b6;
 }
 
- .container .card:nth-child .box .content a {
-  background:  #f276b6;;
-}
-
- .container .card:nth-childs .box .content a {
-  background:  #f276b6;;
+.container .card:nth-childs .box .content a {
+  background: #f276b6;
 }
 
 .container .card .box {
@@ -52,7 +52,7 @@
   transform: translateY(-50px);
 }
 
- .container .card .box:before {
+.container .card .box:before {
   content: "";
   position: absolute;
   top: 0;
@@ -63,7 +63,6 @@
 }
 
 .container .card .box .content {
-  padding: 20px;
   text-align: center;
 }
 
@@ -75,7 +74,7 @@
   color: rgba(255, 255, 255, 0.1);
 }
 
- .container .card .box .content h3 {
+.container .card .box .content h3 {
   font-size: 1.8rem;
   color: #fff;
   z-index: 1;
@@ -83,7 +82,7 @@
   margin-bottom: 15px;
 }
 
- .container .card .box .content p {
+.container .card .box .content p {
   font-size: 1rem;
   font-weight: 300;
   color: rgba(255, 255, 255, 0.9);
@@ -111,50 +110,50 @@
 }
 
 /* texto card */
-.conteudo-principal-escrito-titulo{
+.conteudo-principal-escrito-titulo {
   font-family: 'Space Mono', cursive;
   font-weight: 500;
   font-size: 35px;
   color: #FFF2E7;
 }
-.conteudo-texto{
+
+.conteudo-texto {
   font-size: 12px;
   color: #ECD6C4;
   margin: 0 18px;
   list-style: none;
 }
 
-.img-jogo{
-    height: 100px;
-    flex-direction: column ;
+.img-jogo {
+  height: 100px;
+  flex-direction: column;
 }
 
 /* busca */
-#divBusca{
+#divBusca {
   margin: 0 600px;
-  background-color: #09011B;
-  border:solid 2px #511E4F;
-  border-radius:10px;
+  border: solid 2px #09011B;
+  border-radius: 10px;
   width: 268px;
-  height:32px;
+  height: 32px;
 }
 
-#txtBusca{
-  float:left;
-  background-color:transparent;
-  padding-left:5px;
-  font-size:18px;
-  border:none;
-  height:32px;
-  width:191px;
+#txtBusca {
+  float: left;
+  background-color: transparent;
+  padding-left: 5px;
+  font-size: 18px;
+  border: none;
+  height: 32px;
+  width: 191px;
 }
 
-#btnBusca{
-  border:none;
-  float:left;
-  height:32px;
-  border-radius:0 7px 7px 0;
-  width:70px;
-  font-weight:bold;
-  background:#ffff;
+#btnBusca {
+  border: none;
+  float: left;
+  height: 32px;
+  border-radius: 0 7px 7px 0;
+  width: 70px;
+  font-weight: bold;
+  background: #ffff;
 }
