@@ -6,7 +6,7 @@ body {
 }
 
 html {
- 
+  font-size: 30px;
   font-family: 'Chivo', sans-serif;
   color: #ffffff;
 }
@@ -72,15 +72,13 @@ html {
 /*main*/
 
 .caixa-introducao{
-  font-size: 25px;
   padding-top: 60px ;
-text-align: center;
+  text-align: center;
 }
 
 .introducao {
   color: #ffffff;
   width: 100%;
-  text-align: justify;
 }
 
 .main-img {
