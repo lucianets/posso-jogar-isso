@@ -1,0 +1,134 @@
+[
+  {
+    "nome": "Devil's Bob MUD",
+    "plataforma": "Navegador web",
+    "tipo": "RPG",
+    "ano": "2005",
+    "link": "http://www.mud.com.br"
+  },
+  {
+    "nome": "OGame",
+    "plataforma": "Navegador web, Android, iOS",
+    "tipo": "MMORPG, Estratégia em tempo real",
+    "ano": "2002",
+    "link": "https://lobby.ogame.gameforge.com/pt_PT/"
+  },
+  {
+    "nome": "Dark Destroyer",
+    "plataforma": "on-line",
+    "ano": "2004",
+    "link": "https://deficienciavisual.com.br/files/audiogames/darkdestroyer-ptb.exe"
+  },
+  {
+    "nome": "Assassin's Creed valhalla",
+    "tipo": "Jogo eletrônico de aventura, Jogo eletrônico de luta",
+    "plataforma": "PlayStation 4, PlayStation 5, Xbox One, Xbox Series X e Series S, Google Stadia, Microsoft Windows",
+    "ano": "2020",
+    "link": "https://store.epicgames.com/pt-BR/p/assassins-creed-valhalla",
+  },
+  {
+    "nome": "Celeste",
+    "tipo": "Jogo eletrônico de plataforma, Jogo eletrônico independente, Jogo eletrônico de aventura",
+    "plataforma": "Nintendo Switch, PlayStation 4, Xbox One, macOS, Linux, Microsoft Windows, Google Stadia, Mac OS",
+    "ano": "2018",
+    "link": "https://store.steampowered.com/app/504230/Celeste/"
+  },
+  {
+    "nome": "Far Cry 6",
+    "tipo": "Tiro em primeira pessoa, Jogo eletrônico de ação e aventura",
+    "plataforma": "PlayStation 4, Xbox One, PlayStation 5, Xbox Series X e Series S, Microsoft Windows, Amazon Luna, Google Stadia",
+    "ano": "2021",
+    "link":  "https://store.epicgames.com/pt-BR/p/far-cry-6"
+  },
+  {
+    "nome": "Forza Horizon 5",
+    "tipo": "aventura, carro",
+    "plataforma": "Xbox Series X e Series S, Xbox One, Microsoft Windows, Xbox Cloud Gaming",
+    "ano": "2021",
+    "link": "https://www.xbox.com/pt-br/games/forza-horizon-5"
+  },
+  {
+    "nome": "Gears 5",
+    "tipo": "Tiro em terceira pessoa, Jogo eletrônico de ação e aventura",
+    "plataforma": "Xbox One, Xbox Series X e Series S, Microsoft Windows",
+    "ano": "2019",
+    "link": "https://store.steampowered.com/app/1097840/Gears_5/"
+  },
+  {
+    "nome": "Hades",
+    "tipo": "Roguelike, Jogo eletrônico independente",
+    "plataforma": "Nintendo Switch, PlayStation 4, PlayStation 5,Xbox, Microsoft Windows, Mac OS",
+    "ano": "2020",
+    "link": "https://store.steampowered.com/app/1145360/Hades/?l=brazilian"
+  },
+  {
+    "nome": "Hyperdot",
+    "tipo": "Jogo eletrônico casual",
+    "plataforma": "Xbox One, Microsoft Windows, Linux, Mac OS, PlayStation 5, Nintendo Switch",
+    "ano": "2020",
+    "link": "https://store.steampowered.com/app/876500/HyperDot/"
+  },
+  {
+    "nome": "Ratchet and Clank: Rift Apart",
+    "tipo": "jogo eletrônico de plataforma e tiro",
+    "plataforma": "PlayStation 5",
+    "ano": "2021",
+    "link": "https://www.playstation.com/pt-br/games/ratchet-and-clank-rift-apart/"
+  },
+  {
+    "nome": "The Last of Us Part 2",
+    "tipo": "Jogo eletrônico de ação e aventura, Survival horror, Jogo eletrônico de tiro",
+    "plataforma": "PlayStation 4",
+    "ano": "2020",
+    "link": "https://store.playstation.com/pt-br/product/UP9000-CUSA07820_00-THELASTOFUSPART2"
+  },
+  {
+    "nome": "World of Warcraft",
+    "tipo": "MMORPG, Entretenimento, Fantasia, Jogo eletrônico de ação, Mundo virtual, Ficção especulativa, Societal",
+    "plataforma": "macOS, Microsoft Windows, Mac OS",
+    "ano": "2004",
+    "link": "https://worldofwarcraft.com"
+  },
+  {
+    "nome": "Grounded",
+    "tipo": "jogo eletrônico de sobrevivência, Jogo eletrônico de aventura",
+    "plataforma": "Xbox One, Xbox Series X e Series S, Xbox Cloud Gaming, Microsoft Windows",
+    "ano": "2020",
+    "link": "https://store.steampowered.com/app/962130/Grounded/"
+  }
+  {
+    "nome": "Overland",
+    "tipo": "ogo eletrônico de sobrevivência, Jogo eletrônico independente",
+    "plataforma": "PlayStation 4, Xbox One, iOS, Microsoft Windows, Linux, macOS, Mac OS Classic, Nintendo Switch",
+    "ano": "2016",
+    "link": "https://store.steampowered.com/app/355680/Overland/"
+  },
+  {
+    "nome": "Ratchet & Clank - Em Uma Outra Dimensão",
+    "tipo": "Jogo eletrônico de plataforma e tiro",
+    "plataforma": "PlayStation 5",
+    "ano": "2021",
+    "link": "https://www.playstation.com/pt-br/games/ratchet-and-clank-rift-apart/"
+  },
+  {
+    "nome": "A Blind Legend",
+    "tipo": "Jogo eletrônico de ação e aventura, Jogo eletrônico independente, Adventure",
+    "plataforma": "Android, Microsoft Windows, iOS, macOS",
+    "ano": "2015",
+    "link": "https://store.steampowered.com/app/437530/A_Blind_Legend/"
+  },
+  {
+    "nome": "Pac-Man Talks",
+    "tipo": "online",
+    "plataforma": "Windows",
+    "ano": "2008",
+    "link": "https://www.gmagames.com/pacman.shtml"
+  },
+  {
+    "nome": "Slender: Lost Vision",
+    "tipo": "Role-playing game, Jogo eletrônico independente, Adventure",
+    "plataforma": "Microsoft Windows",
+    "ano": "2019",
+    "link": "https://store.steampowered.com/app/1031800/Codex_Temondera_Lost_Vision"
+  }
+]

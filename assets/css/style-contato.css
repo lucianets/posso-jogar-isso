@@ -114,11 +114,12 @@
     width: 100%;
     margin: 0 auto;
     padding: 0;
+
 }
 
 .social-media-list li a {
     color: #cfa6b9;
-    
+
 }
 
 .social-media-list li {
@@ -133,6 +134,10 @@
     background-color: rgb(255, 255, 255);
     cursor: pointer;
     transition: all .2s ease-in-out;
+
+    text-decoration: none;
+
+
 }
 
 .social-media-list li:after {
