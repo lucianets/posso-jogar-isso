@@ -47,7 +47,7 @@ Posso jogar isso? é o meu projeto final do bootcamp da {reprograma} e realizado
 
 ## Agradecimentos
 
-Gostaria de agradecer todas as professoras, facilitadoras, mentoras da reprograma e as todas colegas de classe por todo aprenzidado adquerido nesses últimos meses, foi incrível! Desejo mutio sucesso para todas nós  ♡
+Gostaria de agradecer todas as professoras, facilitadoras, mentoras da reprograma e as todas colegas de classe por todo aprenzidado adquerido nesses últimos meses, foi incrível! Desejo muito sucesso para todas nós  ♡
 
 ## Feedback
 
