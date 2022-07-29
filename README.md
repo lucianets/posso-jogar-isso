@@ -8,7 +8,7 @@ Posso jogar isso? é o meu projeto final do bootcamp da {reprograma} e realizado
 ## Escolha do Tema
 
 - Mostrar importância da acessibildade 
-- Mostrar benéficios que os jogos trazem para PCD
+- Mostrar benefícios que os jogos trazem para PCD
 - Indicar jogos com recursos de acessbilidade
 - Gostar muito de jogos 
 
