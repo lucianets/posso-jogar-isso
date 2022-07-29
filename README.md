@@ -22,10 +22,6 @@ Posso jogar isso? é o meu projeto final do bootcamp da {reprograma} e realizado
 [![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 
 
-
-
-
-
 ## 🔗 Link do Site
 [![SITE](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://possojogarisso.netlify.app/index.html)
 
@@ -33,7 +29,7 @@ Posso jogar isso? é o meu projeto final do bootcamp da {reprograma} e realizado
 
 Se você tem alguma seguestão ou gostaria de falar sobre o projeto me envie um e-mail: ltsluciane@icloud.com
 
-## Authors
+## Autora
 
 - [@lucianets](https://github.com/lucianets)
 
