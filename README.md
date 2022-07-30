@@ -1,6 +1,6 @@
 
 # Posso jogar isso?
-Posso jogar isso? é o meu projeto final do bootcamp da {reprograma} e realizado com muito amor e dedicação, mostrando um pouco das habilidades que eu aprendi durante esse bootcamp. 
+Posso jogar isso? é o meu projeto final do bootcamp #TodasEmTech da {reprograma} e realizado com muito amor e dedicação, mostrando um pouco das habilidades que eu aprendi durante esse bootcamp. 
 
 ![Logo](https://i.imgur.com/fMFfrsM.png)
 
