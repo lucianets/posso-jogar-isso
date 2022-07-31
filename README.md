@@ -36,7 +36,7 @@ Posso jogar isso? é o meu projeto final do bootcamp #TodasEmTech da {reprograma
 - Pesquisei mais sobre acessibilidade
 - Adicionei alguns recusos de acessbilidade no site
 - Criei e utilizei uma fake API [@games](https://github.com/lucianets/games)
-- Os maiores desafios que eu tive com esse projeto: buscar os jogos, CSS.
+- Os maiores desafios que eu tive com esse projeto: buscar os jogos, CSS, JS.
 - Como eu superei meus desafios: organização, foco, pesquisar muito e sempre testando todos elementos.
 - Eu tive mais confiança em fazer o projeto em HTML, CSS E JS 
 - Futuramente pretendo incluir REACT para melhorar e como uma forma de estudos também.
